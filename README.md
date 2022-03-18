@@ -19,7 +19,7 @@ The dataset will only show the lines of data that contain these requested variab
 ![image](https://user-images.githubusercontent.com/26393180/159061495-ef28ad12-896b-4103-9894-416388d9eab3.png)
 
 
-Summary:
+## Summary:
 
 Even though the data is easy to read, and the user can filter the data to only show specified variables, there are some drawbacks to the webpage. For example, the UFO data presented in the table must be manually entered in the JavaScript file. If there were new UFO sitting information discovered, the user of the website would not be able to view this information until the web creator added the new information to the JavaScript file. 
 
